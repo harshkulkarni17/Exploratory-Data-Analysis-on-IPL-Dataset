@@ -2,7 +2,7 @@
 Data Science Project
 
 Hello everyone!
-I am glad to share that I have successfully completed #task as <b>Data Scientist And Business Analytics</b> intern at <b>The Sparks Foundation</b> for #GRIPJULY21 batch.
+I am glad to share that I have successfully completed my task as <b>Data Scientist And Business Analytics</b> intern at <b>The Sparks Foundation</b> for #GRIPJULY21 batch.
 The task that I have to do is to perform exploratoty data analysis on Indian Premier League dataset. This dataset contians whole data of Indian Premier League from 2008 to 2019. There are total 756 observations in the dataset. I have used python as a programming language and Jupyter notebook as a platform.
 
 Thank You <b> @The Sparks Foundation </b> to giving me this opportunity.
